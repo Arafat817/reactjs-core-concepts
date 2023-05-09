@@ -43,3 +43,10 @@
   padding: 20px;
 
 }
+.person{
+  background-color: coral;
+  border-radius: 20px;
+  border: 2px solid yellowgreen;
+  padding: 20px;
+   margin: 10px;
+}
